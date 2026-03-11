@@ -1,15 +1,15 @@
 __pycache__
 *.vscode
-cfg.yaml
 *.pth
 *.pkl
 *.pyc
 *.so
 *.egg-info
 
-# Ignore weight files but keep the folder structure
-weights/*
+# Ignore weight binaries but keep cfg.yaml
+weights/**/*.pth
 !weights/.gitkeep
+!weights/**/cfg.yaml
 output/
 .claude/
 
