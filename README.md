@@ -6,7 +6,7 @@ Built on top of Fast-FoundationStereo (CVPR 2026).
 
 ## Features
 
-- **Real-time stereo depth** with FFS zero-shot generalization (~7-10 FPS on RTX 3090)
+- **Real-time stereo depth** with FFS zero-shot generalization (~15-20 FPS on RTX 3090)
 - **Multiple camera support**: USB stereo cameras, Intel RealSense D415, OAK-D Lite
 - **Stereo calibration pipeline**: ChArUco-based calibration for custom stereo rigs
 - **SAM2 interactive tracking**: Click or drag to select objects, real-time mask tracking
