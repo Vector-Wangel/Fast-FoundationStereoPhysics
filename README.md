@@ -1,4 +1,4 @@
-# Fast-FoundationStereo Real-Time Toolkit
+# Fast-FoundationStereo(Pose) Real-Time Toolkit
 
 Real-time stereo depth estimation and interactive 3D point cloud visualization using [Fast-FoundationStereo](https://github.com/NVlabs/Fast-FoundationStereo), with optional [SAM2](https://github.com/facebookresearch/sam2) object tracking and 6D oriented bounding box estimation.
 
